@@ -1,0 +1,14 @@
+{
+  "server": {
+    "hostName": "localhost",
+    "port": "3003"
+  },
+  "token": {
+    "secret": "DBbFZX3ZsUPRVniUA1Y1020NZzhRasrApsjGlPg2Nq8vB",
+    "expiresInSeconds": "86400"
+  },
+  "serverKey": {
+    "publicKey":"-----BEGIN PUBLIC KEY-----\nMFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAK082YgBpbEVqugPCYKBDl3SbcHMnnw1\nOlXqqM1wlA2l9CHK4S+caHRziHAcdG5pkezfoxCogYkgRMz56vYAAX0CAwEAAQ==\n-----END PUBLIC KEY-----",
+    "privateKey":"-----BEGIN RSA PRIVATE KEY-----\nMIIBPAIBAAJBAK082YgBpbEVqugPCYKBDl3SbcHMnnw1OlXqqM1wlA2l9CHK4S+c\naHRziHAcdG5pkezfoxCogYkgRMz56vYAAX0CAwEAAQJBAISV467yA8vqV2lPyOl2\nuHYaDSKb5lgNrN4AwLyrAsUGD2nZStm+Ux1VO80dO0uDElNQcH6+2xY149j5XMWg\nRIECIQDuPEsjPyxx0OwfwriooYEpzQdY6RS3JqmazWXQ2COo7QIhALonzg1cQXkV\n1V6uoUE8mV53RTJyODpbrjwWULD+BHjRAiEAj0SLGyM+oyO1HFSJoD+f4Xd/V6Sz\n5IDHtmSXOkUBDPECIQCnkgFHwY4mY2MIsgXyZYxhntepS2wWDEVRTX0hdeesoQIg\nc6XZXVlpwDZRCJeQsHteP6iGMPQ6O1B54cvoCaOJCW0=\n-----END RSA PRIVATE KEY-----"
+  }
+}
